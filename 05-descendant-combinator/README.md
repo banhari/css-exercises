@@ -1,0 +1,1 @@
+This exercise is about using descendant combinators.
