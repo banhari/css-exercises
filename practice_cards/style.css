@@ -1,8 +1,14 @@
-.card {
-  *display: flex;
-  flex-direction: column;*
+img {
+  width: 100%;
 }
 
-.card .content {
-  flex: 1 1 auto;
+body {
+  background-color: rgb(139, 220, 220);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#container {
+  max-width: 300px;
+  margin: 0 auto;
+  margin-top: 20vh;
 }
