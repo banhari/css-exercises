@@ -64,3 +64,11 @@ button:focus, button:hover {
 .card_details {
   padding: 16px 8px 8 px 8 px;
 }
+
+footer {
+  border: 1px solid black;
+  font-size: 10px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
